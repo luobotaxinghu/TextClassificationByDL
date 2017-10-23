@@ -1,7 +1,8 @@
 # TextClassificationByDL
 
-# version 
+# Version 
 >Python = 3.5
+
 >tensorfolw = 1.2.0
 
 # Model1: minCNN creat by JZ
