@@ -11,7 +11,8 @@
 >$ tensorboard --logdir="./graphs" --port 6006
 
 ## Model1: minCNN creat by JZ
-> References
-- [Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882)
-- [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1510.03820)
+>make a little modification from  - [cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf), like early stopping.
+
+>model is for short texts whose length of words is no more than 100.
+
 
